@@ -1,4 +1,3 @@
-[![Build Status](https://travis-ci.org/Maroc-OS/zcash.svg?branch=master)](https://travis-ci.org/Maroc-OS/zcash)
 Zcash 1.0.5
 ===========
 
